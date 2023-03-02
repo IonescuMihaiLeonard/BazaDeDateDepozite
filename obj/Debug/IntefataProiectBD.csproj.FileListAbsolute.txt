@@ -1,0 +1,13 @@
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\Debug\IntefataProiectBD.exe.config
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\Debug\IntefataProiectBD.exe
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\Debug\IntefataProiectBD.pdb
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\Debug\Oracle.DataAccess.dll
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.csproj.AssemblyReference.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.Form1.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.Properties.Resources.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.csproj.GenerateResource.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.csproj.CoreCompileInputs.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.csproj.CopyComplete
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.exe
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\Debug\IntefataProiectBD.pdb

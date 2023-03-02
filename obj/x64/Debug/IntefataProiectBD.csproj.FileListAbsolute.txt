@@ -1,0 +1,16 @@
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\x64\Debug\IntefataProiectBD.exe.config
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\x64\Debug\IntefataProiectBD.exe
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\x64\Debug\IntefataProiectBD.pdb
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\x64\Debug\Oracle.DataAccess.dll
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.Properties.Resources.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.csproj.GenerateResource.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.csproj.CoreCompileInputs.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.csproj.CopyComplete
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.exe
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.pdb
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.Start.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.Afisari.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.csproj.AssemblyReference.cache
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.Modificare.resources
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\bin\x64\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+D:\facultate\BazeDeDate\Proiect\IntefataProiectBD\obj\x64\Debug\IntefataProiectBD.Avertizare.resources
